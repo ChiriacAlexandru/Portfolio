@@ -1,0 +1,1 @@
+D:\Portofolio\Maui - Calculator\Calculator APP\Calculator APP\Calculator APP.csproj;x64
